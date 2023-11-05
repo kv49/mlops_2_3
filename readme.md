@@ -1,0 +1,3 @@
+This is based on materials from lessons with the task that was counting likes of youtube videos.
+
+I have not found much videos with dislikes. Even when comment is telling how much bad a video, other people give likes to such comments to express how they aggree with the comment. So, instead of sudgested changes to count dislikes I count number of words in comments that should express how much people were touched by a video that decided to write a long or short comment
